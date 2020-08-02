@@ -7,6 +7,8 @@ github.com/99designs/keyring v1.1.2/go.mod h1:657DQuMrBZRtuL/voxVyiyb6zpMehlm5vL
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Flaque/filet v0.0.0-20190209224823-fc4d33cfcf93 h1:NnAUCP75PRm8yWE7+MZBIAR6PA9iwsBYEc6ZNYOy+AQ=
 github.com/Flaque/filet v0.0.0-20190209224823-fc4d33cfcf93/go.mod h1:TK+jB3mBs+8ZMWhU5BqZKnZWJ1MrLo8etNVg51ueTBo=
+github.com/albertvaka/googlemirror v0.3.7-0.20200802104512-6558479992aa h1:ACLd23kSuv3kEDP7fIIpimumsH9IqUS3L7cCHya624Y=
+github.com/albertvaka/googlemirror v0.3.7-0.20200802104512-6558479992aa/go.mod h1:L6A+2KW6d/OwjZ5QH2fGXJXsOtR115tj9w+YxdyjfUI=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
@@ -51,6 +53,8 @@ github.com/gphotosuploader/google-photos-api-client-go v1.1.5 h1:C0CGCzW8yUxGsb5
 github.com/gphotosuploader/google-photos-api-client-go v1.1.5/go.mod h1:QtI0KAujf3FYFFHlGjgVgL7H6XgEOuAHR7RWumzPdJk=
 github.com/gphotosuploader/googlemirror v0.3.5 h1:YyCpmFVqawmjowpvtNkictAQwR0qyJChXJxJPwlX/uQ=
 github.com/gphotosuploader/googlemirror v0.3.5/go.mod h1:L6A+2KW6d/OwjZ5QH2fGXJXsOtR115tj9w+YxdyjfUI=
+github.com/gphotosuploader/googlemirror v0.3.6 h1:A3FBJhz0SUEDisMcmlbWw3rWqnDKEhtlcSm83sLUXJc=
+github.com/gphotosuploader/googlemirror v0.3.6/go.mod h1:L6A+2KW6d/OwjZ5QH2fGXJXsOtR115tj9w+YxdyjfUI=
 github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c h1:6rhixN/i8ZofjG1Y75iExal34USq5p+wiN1tpie8IrU=
 github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c/go.mod h1:NMPJylDgVpX0MLRlPy15sqSwOFv/U1GZ2m21JhFfek0=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=

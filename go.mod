@@ -7,7 +7,7 @@ require (
 	github.com/Flaque/filet v0.0.0-20190209224823-fc4d33cfcf93
 	github.com/client9/xson v0.0.0-20180321172152-0e50cdfc08c0
 	github.com/gphotosuploader/google-photos-api-client-go v1.1.5
-	github.com/gphotosuploader/googlemirror v0.3.5
+	github.com/gphotosuploader/googlemirror v0.3.6
 	github.com/int128/oauth2cli v1.12.1
 	github.com/k0kubun/go-ansi v0.0.0-20180517002512-3bf9e2903213
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
@@ -21,3 +21,5 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 )
+
+replace github.com/gphotosuploader/googlemirror => github.com/albertvaka/googlemirror v0.3.7-0.20200802104512-6558479992aa
